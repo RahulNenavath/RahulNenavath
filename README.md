@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rahul!
 A Data Scientist and Machine Learning Engineer with over three years of experience harnessing data for transformative insights and solutions.
 
-## 🧑‍💼 About Me
+## 💁 About Me
 
 - **Professional Expertise**: 
   I specialize in **Generative AI**, **Natural Language Processing (NLP)**, and **Search Engines**. My work spans from building intelligent models to designing scalable data architectures and pipelines. I am passionate about driving efficiency and effectiveness in real-world applications.
