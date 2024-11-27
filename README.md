@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rahul!
-A Data Scientist and Machine Learning Engineer with over three years of experience harnessing data for transformative insights and solutions.
+A Data Scientist and Machine Learning Engineer with over three years of experience leveraging data to deliver impactful insights and innovative solutions, backed by dual Master’s degrees in Data Analytics and Computer Engineering.
 
 ## 💁 About Me
 
@@ -8,9 +8,9 @@ A Data Scientist and Machine Learning Engineer with over three years of experien
 
 - **Industry Experience**:
   My professional journey includes:
-  - Implementing generative AI solutions, such as call center chatbots powered by LLMs that drive cost savings and improve service quality.
-  - Enhancing search engine functionality with vector-based databases and fine-tuned LLM models, improving accuracy and user experience.
-  - Developing robust data engineering pipelines and analytics dashboards for user engagement and monitoring.
+  - Designing AI solutions like Generative AI based auto-complete, and vector based semantic search engines that improve user experience.
+  - Deploying scalable AI solutions by quantizing deep learning models for fast inference on cloud service poviders like AWS & GCP.
+  - Building data engineering pipelines to capture user activity and design analytics dashboards for user activity monitoring.
 
 - **Research and Publications**:
   I've co-authored a research paper in the field of biomedical imaging, contributing to advancements in brain tumor segmentation using deep learning techniques. My academic pursuits continue to complement my practical projects.
