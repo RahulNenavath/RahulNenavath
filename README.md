@@ -4,7 +4,7 @@ A Data Scientist and Machine Learning Engineer with over three years of experien
 ## 💁 About Me
 
 - **Professional Expertise**: 
-  I specialize in **Generative AI**, **Natural Language Processing (NLP)**, and **Data Scinece**. My work spans from building intelligent models to designing scalable data architectures and pipelines. I am passionate about driving efficiency and effectiveness in real-world applications.
+  I specialize in **Generative AI**, **Natural Language Processing (NLP)**, and **Data Science**. My work spans from building intelligent models to designing scalable data architectures and pipelines. I am passionate about driving efficiency and effectiveness in real-world applications.
 
 - **Industry Experience**:
   My professional journey includes:
