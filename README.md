@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rahul!
-A Data Scientist and Machine Learning Engineer with over three (3) years of experience leveraging data to deliver impactful insights and innovative solutions, backed by dual Master’s degrees in Data Analytics and Computer Engineering.
+A Data Scientist and Machine Learning Engineer with over three (3) years of experience leveraging data to deliver impactful insights and innovative solutions, backed by Master’s degrees in Data Analytics and Computer Engineering.
 
 ## 💁 About Me
 
